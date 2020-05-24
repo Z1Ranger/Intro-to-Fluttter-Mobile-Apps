@@ -2,5 +2,5 @@
 Collection of Basic Flutter Mobile Application created during initial learning of Flutter
 
 ### Main Page of Apps
-<img src='i_am_ruby/readme/iamruby.PNG' height = 300> <img src='MyCard/readme/app.PNG' height = 300> <img src='Roll%20a%20Dice!/readme/app.PNG' height = 300> <img src='Ask%20Me%20Anything/readme/app.PNG' height = 300>
+<img src='i_am_ruby/readme/iamruby.PNG' height = 250> <img src='MyCard/readme/app.PNG' height = 250> <img src='Roll%20a%20Dice!/readme/app.PNG' height = 250> <img src='Ask%20Me%20Anything/readme/app.PNG' height = 250> <img src='Xylophone/readme/app.PNG' height = 250>
 
