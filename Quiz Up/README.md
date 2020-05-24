@@ -14,4 +14,4 @@
 - Using Dart lists.
 - The difference between var, const and final.
 
-<img src='readme/app.PNG' height = 500>
+<img src='readme/app.PNG' height = 500> <img src='readme/alert.PNG' height = 500>
