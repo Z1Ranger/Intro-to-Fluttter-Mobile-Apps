@@ -13,3 +13,5 @@ MyCard is a personal business card. Imagine every time you wanted to give someon
 * Material icons
 * Style Text widgets
 * Using Flutter Documentation
+
+<img src='readme/app.PNG' height = 500>
